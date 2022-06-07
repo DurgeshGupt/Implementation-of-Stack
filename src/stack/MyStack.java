@@ -25,6 +25,11 @@ class Demo {
         s.push(30);
         s.push(56);
         System.out.println("the top element of stack "+ s.peek());
+        System.out.println("the pop element of stack "+ s.pop());
+        System.out.println("the top element of stack "+ s.peek());
+        System.out.println("the pop element of stack "+ s.pop());
+        System.out.println("the top element of stack "+ s.peek());
+        System.out.println("the pop element of stack "+ s.pop());
 
 
     }
